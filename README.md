@@ -1,7 +1,7 @@
 # Olá, eu sou o Levi Fernandes 👋
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (1º Semestre) na UniFECAF  
-💻 Em transição para a área de TI com foco em **Desenvolvimento Back-end (Java)**  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (1º Semestre) na UniFECAF.
+💻 Em transição para a área de TI com foco em **Desenvolvimento Back-end (Java).**  
 
 ---
 
@@ -14,16 +14,22 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-**Linguagens & Back-end:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Back-end:**
+<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Front-end:**
+<br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
 **Ferramentas & Controle de Versão:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
