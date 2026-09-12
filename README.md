@@ -29,13 +29,6 @@
 
 ---
 
-### 📊 GitHub
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=acLevi&show_icons=true&hide_border=true&theme=default)](https://github.com/acLevi)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=acLevi&layout=compact&hide_border=true&theme=default)](https://github.com/acLevi)
-
----
-
 ### 📬 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/levifernandeslima)
