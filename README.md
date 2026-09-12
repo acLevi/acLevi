@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Levi Fernandes!
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (1º semestre) na UniFECAF <br>
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (2º semestre) na UniFECAF <br>
 ☕ Em transição de carreira para TI, com foco em **desenvolvimento Back-end com Java**
 
 ---
